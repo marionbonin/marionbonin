@@ -23,6 +23,11 @@ Worked with / learning:
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+ ## Where to find me
+ 
+![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin?logoWidth=60)
+
+
 
 
 
