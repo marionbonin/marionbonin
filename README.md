@@ -25,7 +25,7 @@ Worked with / learning:
 
  ## Where to find me
  
-![Linkedin](https://www.linkedin.com/in/marionbonin/)
+[Linkedin](https://www.linkedin.com/in/marionbonin/)
 
 
 
