@@ -23,6 +23,13 @@ Worked with / learning:
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+
+## UX/UI
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=black)
+![Sketch](https://img.shields.io/badge/-Sketch-Yellow?style=flat-square&logo=Sketch)
+
  ## Where to find me
  
 [Linkedin](https://www.linkedin.com/in/marionbonin/)
