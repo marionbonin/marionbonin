@@ -25,7 +25,7 @@ Worked with / learning:
 
  ## Where to find me
  
-<a href=”https://www.linkedin.com/in/marionbonin/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+![Linkedin](https://www.linkedin.com/in/marionbonin/)
 
 
 
