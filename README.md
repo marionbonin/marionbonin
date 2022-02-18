@@ -28,7 +28,7 @@ Worked with / learning:
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=black)
-![Sketch](https://img.shields.io/badge/-Sketch-Yellow?style=flat-square&logo=Sketch)
+![Sketch](https://img.shields.io/badge/-Sketch-Yellow?style=flat-square&logo=Sketch?color=yellow)
 
  ## Where to find me
  
