@@ -14,15 +14,15 @@ Frequently used:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-darkblue?style=flat-square&logo=php)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 Already worked with / learning:
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Wordpress](https://img.shields.io/badge/WordPress-0077B5?style=flat-square&logo=wordpress&logoColor=white)
 
 
