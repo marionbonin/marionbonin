@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Marion, a 26-yo web developer with a business and UX/UI Design background from Paris, France.
+I'm Marion, a 27-yo web developer with a business and UX/UI Design background from Paris, France.
 
 💻 Last project: Mug Overflow (web app), a mug merch shop for O'Clock school. Teaming up with Symfony developers for back-end, I worked with 2 other devs on front-end in React.js.
 Stack: React, Redux, Symfony as REST API using Doctrine. 
