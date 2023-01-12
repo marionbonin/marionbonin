@@ -1,9 +1,7 @@
 ## Hello! 👋
 
-I'm Marion, a 27-yo web developer with a business and UX/UI Design background from Paris, France.
-
-💻 Last project: Mug Overflow (web app), a mug merch shop for O'Clock school. Teaming up with Symfony developers for back-end, I worked with 2 other devs on front-end in React.js.
-Stack: React, Redux, Symfony as REST API using Doctrine. 
+I'm Marion, a Paris-based 27-yo web developer with a business and UX/UI Design background.
+I am currently working as a full-stack developer (Django/React) at BureauxLocaux.
 
 
 ## Technologies
@@ -11,6 +9,7 @@ Stack: React, Redux, Symfony as REST API using Doctrine.
 Frequently used:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,7 +21,6 @@ Frequently used:
 Already worked with / learning:
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Wordpress](https://img.shields.io/badge/WordPress-0077B5?style=flat-square&logo=wordpress&logoColor=white)
 
 
