@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Marion, a Paris-based 30 web developer with UX/UI Design background and international work experience.
+I'm Marion, a Paris-based web developer with UX/UI Design background and international work experience.
 I am currently working as a full-stack developer (Django/React) at BureauxLocaux (now part of CoStar Group).
 
 ## Technologies
